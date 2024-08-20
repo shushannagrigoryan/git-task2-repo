@@ -1,0 +1,24 @@
+From 5206ef9f296ecc3e53a47b3f045a68558ecd2ce6 Mon Sep 17 00:00:00 2001
+From: Shushanna Grigoryan <shushannagrigoryan7@gmail.com>
+Date: Wed, 21 Aug 2024 18:40:49 +0400
+Subject: [PATCH] updated 2 lines in firstFile.txt from git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 5c2b7ab..10e55c3 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-firstFile-line1
+-firstFile-line2
++firstFile-line1-git1-modified
++firstFile-line2-git1-modified
+ firstFile-line3
+ firstFile-line4
+ firstFile-line5
+-- 
+2.39.1.windows.1
+
