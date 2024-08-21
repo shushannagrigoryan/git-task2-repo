@@ -1,10 +1,10 @@
 secondFile-line1
 secondFile-line2
-secondFile-line3
+secondFile-line3-updated-git1
 secondFile-line4
 secondFile-line5
 secondFile-line6
-secondFile-line7
+secondFile-line7-updated-git1
 secondFile-line8
 secondFile-line9
 secondFile-line10
