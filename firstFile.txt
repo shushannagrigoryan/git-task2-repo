@@ -1,0 +1,10 @@
+firstFile-line1-git1-modified
+firstFile-line2-git1-modified
+firstFile-line3
+firstFile-line4
+firstFile-line5-git1-modified(another)
+firstFile-line6-git1-modified(another)
+firstFile-line7
+firstFile-line8
+firstFile-line9-changed
+firstFile-line10-changed
